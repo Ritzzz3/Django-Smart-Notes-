@@ -62,7 +62,7 @@ Visit  http://127.0.0.1:8000 in your browser.
 
 
 ### Login Page
-![Login Page](screenshots/loginpage.png)
+![Login Page](screenshots/loginpage.jpg)
 
 ### Sign Up Page
 ![Signup Page](screenshots/signuppage.jpg)
