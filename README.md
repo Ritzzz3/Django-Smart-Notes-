@@ -27,7 +27,7 @@ Users can **register, log in, add notes, view all notes, and manage personal not
 
 ### 1. Clone the Repository
 
-git clone https://github.com/hk-vishwakarma/django-notes-app.git  
+git clone https://github.com/Ritzzz3/Django-Smart-Notes-
 cd django-notes-app
 
 ### 2. Create Virtual Environment
