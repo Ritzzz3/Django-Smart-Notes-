@@ -58,26 +58,26 @@ Visit  http://127.0.0.1:8000 in your browser.
 ## Screenshots
 
 ### Homepage
-![Homepage](screenshots/screenshots/Home.jpg)
+![Homepage](screenshots/screenshots/home_page.jpg)
 
 
 ### Login Page
-![Login Page](screenshots/screenshots/login.jpg)
+![Login Page](screenshots/screenshots/login_page.jpg)
 
 ### Sign Up Page
 ![Signup Page](screenshots/screenshots/sign_up.jpg)
 
 ### Add Note Page
-![Add Note Page](screenshots/screenshots/Add note.jpg)
+![Add Note Page](screenshots/screenshots/add_note.jpg)
 
 ### Success Page
-![Success Page](screenshots/screenshots/success msg page.jpg)
+![Success Page](screenshots/screenshots/success_msg_page.jpg)
 
 ### All Note Page
-![All Note Page](screenshots/screenshots/All note.jpg)
+![All Note Page](screenshots/all_note.jpg)
 
 ### View Full Note Page
-![View full note Page](screenshots/screenshots/view full note.jpg)
+![View full note Page](screenshots/view_full_note.jpg)
 
 ---
 
