@@ -68,7 +68,7 @@ Visit  http://127.0.0.1:8000 in your browser.
 ![Signup Page](screenshots/signuppage.jpg)
 
 ### Add Note Page
-![Add Note Page](screenshots/screenshots/addnote.png)
+![Add Note Page](screenshots/addnote.png)
 
 ### Success Page
 ![Success Page](screenshots/successmsgpage.jpg)
